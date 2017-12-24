@@ -6,7 +6,7 @@
 
 基于 ESP8266 WiFi bee
 
-![组件](http://image.geek-workshop.com/forum/201502/05/110921z3lwwiv4v4liz4zv.jpg)
+![组件](http://image.geek-workshop.com/forum/201502/05/110919tn05mssres6vvfs1.jpg)
 
 ### 购置
 
